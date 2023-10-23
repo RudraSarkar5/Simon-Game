@@ -72,7 +72,7 @@ function playSound(name) {
 }
 
 function startOver() {
-  level = -1;
+  level = 3;
   gamePattern = [];
   userClickedPattern=[];
 }
